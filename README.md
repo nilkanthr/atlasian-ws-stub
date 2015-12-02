@@ -1,0 +1,1 @@
+# atlasian-ws-stub
